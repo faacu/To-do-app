@@ -1,0 +1,38 @@
+#cuadro,ul{
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: rgb(240, 186, 140);
+}
+
+.container{
+    margin-top: 70px;
+    margin-left: 410px;
+}
+
+h2{
+    margin-left: 220px;
+    color: darkorange;
+}
+
+input{
+    margin-left: 5px;
+    border-radius: 5px;
+    width: 330px;
+}
+
+#agregar{
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-left: 120px;
+}
+.btn.btn-warning{
+    margin-right: 78px;
+    margin-top: 4px;
+}
+.btn.btn-danger{
+    margin-top: 4px;
+    margin-right: 5px;
+}
+body{
+    background-color: lightblue
+}
